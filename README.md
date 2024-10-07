@@ -4,7 +4,7 @@
 🚀Check my Personal Portfolio with all my projects and personal information!  
   
 
-🌱 I’m currently learning Pygame  
+🌱 I’m currently learning Python
   
 
 <br/>  
